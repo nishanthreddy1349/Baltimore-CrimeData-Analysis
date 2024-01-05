@@ -14,4 +14,8 @@ Objectives & Results:
 2. Top5 Neighborhood in Highest Increase in Violent Crime: [DOWNTOWN, SANDTOWN-WINCHESTER, BROOKLYN, FRANKFORD, BELAIR-EDISON]
    
 3. Top5 Neighborhood in Greatest Decrease in Violent Crime: [LAKE EVESHAM,LOYOLA/NOTREDAME, PORT COVINGTON, VILLAGES OF HOMELAND, CEDARCROFT]
+
+4. I have used multiple hypothesis testings to interpret the results.
+
+5. Created multiple visualization like year wise count and overall change in percentage of crime in baltimore city.
   
